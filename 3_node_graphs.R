@@ -1,6 +1,4 @@
-# to be testing---
-# testing------------
-
+### testing
 
 library(igraph)
 library(BoolNet)
